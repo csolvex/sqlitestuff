@@ -1,0 +1,32 @@
+# 
+#
+#Assignment
+#
+#  Create a Database file for a bookstore that contains:
+#           id (INTEGER PRIMARY KEY)
+#           booktitle   (TEXT)
+#           isbn        (TEXT)
+#           genre       (TEXT)
+#           instock     (BOOLEAN)
+
+# name the file 'myBooks_YOUR_INITIALS.db'
+
+# you will create a CSV file named 'inventory_YOUR_INITIALS.csv'
+# it will contain the above information for 10 books of your choice
+
+
+# you will create a python program that will read that CSV file and populate your database. Name the file
+# dbReader_YOUR_INITIALS.py  (dbReader_CS.py)
+
+# HAND IN all three files. - Comment your name into your code in the python file.
+# 
+# Good luck. :) 
+
+
+
+
+
+
+
+
+
